@@ -42,7 +42,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Deployment
-Copy link or Open in new browser [Password Generator](https://fhubert1.github.io/password-generator/)
+[Password Generator](https://fhubert1.github.io/password-generator/)
 
 ## Mock-Up
 
